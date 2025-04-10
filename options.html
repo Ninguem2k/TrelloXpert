@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Configurações do TrelloX</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 20px;
+      max-width: 400px;
+    }
+    h1 {
+      font-size: 24px;
+      color: #333;
+    }
+    label {
+      display: block;
+      margin: 10px 0;
+    }
+    button {
+      padding: 8px 16px;
+      background-color: #4bce97;
+      color: white;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+    }
+    button:hover {
+      background-color: #3aa77d;
+    }
+  </style>
+</head>
+<body>
+  <h1>Configurações do TrelloX</h1>
+  <label>
+    <input type="checkbox" id="saveFile"> Salvar como arquivo
+  </label>
+  <label>
+    <input type="checkbox" id="copyToClipboard"> Copiar para área de transferência
+  </label>
+  <button id="save">Salvar</button>
+  <script src="options.js"></script>
+</body>
+</html>
