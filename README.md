@@ -4,7 +4,7 @@ Uma extensão para o Chrome que melhora a experiência de uso do Trello.
 
 ## Funcionalidades
 
-- [Listar funcionalidades aqui]
+- Gerar commit atraves de cardes selecionados
 
 ## Instalação
 
@@ -15,7 +15,7 @@ Uma extensão para o Chrome que melhora a experiência de uso do Trello.
 
 ## Como usar
 
-[Adicione instruções de uso aqui]
+  Marque como clocluido os cardes que deseja gerar o commit e aperte Control + S pra salvar o commit
 
 ## Contribuição
 
