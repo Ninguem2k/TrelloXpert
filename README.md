@@ -15,7 +15,7 @@ Uma extensão para o Chrome que melhora a experiência de uso do Trello.
 
 ## Como usar
 
-  Marque como clocluido os cardes que deseja gerar o commit e aperte Control + S pra salvar o commit
+  Marque como cocluido os cardes que deseja gerar o commit e aperte Control + S pra salvar o commit
 
 ## Contribuição
 
